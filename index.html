@@ -70,7 +70,7 @@
 <hr />
 
 
-	<nav class='top-bar' style='height:auto ;'>
+	<nav class='top-bar' id='footer' style='float:bottom; height:auto;'>
 		  <li class='name'><center><h1><a href='https://github.com'>Powered by github.io</a></h1></center></li>
 	</nav>
 
@@ -78,6 +78,20 @@
 	<script src='static/js/foundation/foundation.js'></script>
 	<script src='static/js/foundation/foundation.reveal.js'></script>
 	<script src='static/js/vendor/modernizr.js'></script>
+	<script>
+	$(window).bind("load", function () {
+	    var footer = $("#footer");
+	        var pos = footer.position();
+	            var height = $(window).height();
+	                height = height - pos.top;
+	                    height = height - footer.height();
+	                        if (height > 0) {
+	                                footer.css({
+	                                            'margin-top': height + 'px'
+	                                                    });
+	                                                        }
+	                                                        });
+	</script>
 
   </body>
 </html>
