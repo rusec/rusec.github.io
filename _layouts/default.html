@@ -14,9 +14,9 @@
       </ul>	  
       <section class="top-bar-section">
 	<ul class="left">
-	  <li><a href="index.html">About</a></li>
-	  <li><a href="newsfeed.html">Newsfeed</a></li>
-	  <li><a href="mailto:rusec@null.net">Contact</a></li>
+	  {% for link in site.menu %}
+	  <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+	  {% endfor %}
 	</ul>
       </section>
     </nav>

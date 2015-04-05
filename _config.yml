@@ -1,0 +1,11 @@
+url: https://rusec.github.io
+
+menu:
+  - title: About
+    url:   /index.html
+
+  - title: Newsfeed
+    url:   /newsfeed.html
+
+  - title: Contact
+    url:   mailto:rusec@null.net
