@@ -1,11 +1,35 @@
+# Site settings
+title: RUSEC
+email: rusec@null.net
 url: https://rusec.github.io
+description: "RUSEC: Rutgers University Students in Cybersecurity"
+intro-text: "Rutgers University Students in Cybersecurity"
 
-menu:
-  - title: About
-    url:   /index.html
+nav-title-icon: fa-terminal
+nav-title-begin: RU
+nav-title-end: SEC
 
-  - title: Newsfeed
-    url:   /newsfeed.html
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#00cc00'
+  links-focus: '#009900'
 
-  - title: Contact
-    url:   mailto:rusec@null.net
+# Footer settings
+footer: RUSEC
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/rupwnd
+  - title: github
+    url: https://github.com/rusec
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+collections:
+  - sections
+
+  
