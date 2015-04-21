@@ -4,7 +4,7 @@ anchor: subscribe
 ---
 ## Subscribe
 
-Sign up here to recieve updaters from us about upcoming events, projects, or other news. 
+Sign up here if you want us to send you updates about events, projects, or other news.
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
