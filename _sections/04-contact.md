@@ -16,11 +16,17 @@ Sign up here if you want us to send you updates about events, projects, or other
 	<label for="mce-EMAIL">Email Address * </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 
+	<br/>
+
 	<label for="mce-FNAME">First Name </label>
 	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
 
+	<br/>
+
 	<label for="mce-LNAME">Last Name </label>
 	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+
+	<br/>
 
 	<strong>Email Format</strong>
 
@@ -32,6 +38,9 @@ Sign up here if you want us to send you updates about events, projects, or other
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 
 	<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_dfd8b893ee37a99999d81fb28_1757b0d589" tabindex="-1" value=""></div>
+
+
+	<br/>
 
 	<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
 </center>
