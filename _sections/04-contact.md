@@ -19,12 +19,12 @@ Sign up here if you want us to send you updates about events, projects, or other
 <br/>
 
 <label for="mce-FNAME">First Name </label>
-<input type="text" value="" name="FNAME" class="" id="mce-FNAME"style="color:#000;">
+<input type="text" value="" name="FNAME" class="" id="mce-FNAME" style="color:#000;">
 
 <br/>
 
 <label for="mce-LNAME">Last Name </label>
-<input type="text" value="" name="LNAME" class="" id="mce-LNAME"style="color:#000;">
+<input type="text" value="" name="LNAME" class="" id="mce-LNAME" style="color:#000;">
 
 <br/>
 
