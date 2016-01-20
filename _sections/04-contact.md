@@ -8,9 +8,9 @@ Sign up here if you want us to send you updates about events, projects, or other
 
 <!--End mc_embed_signup-->
 
+<center>
 
 	<form action="//club.us11.list-manage.com/subscribe/post?u=dfd8b893ee37a99999d81fb28&amp;id=1757b0d589" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-<center>
 	<!--<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>-->
 
 	<label for="mce-EMAIL">Email Address * </label>
