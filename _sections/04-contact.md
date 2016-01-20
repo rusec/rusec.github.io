@@ -44,7 +44,7 @@ Sign up here if you want us to send you updates about events, projects, or other
 
 <!--<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">-->
 
-<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn-circle" >
+<input type="submit" style="background:#000; color:#fff;" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn-circle" >
 </form>
 </center>
 
