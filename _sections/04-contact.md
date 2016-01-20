@@ -14,17 +14,17 @@ Sign up here if you want us to send you updates about events, projects, or other
 <!--<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>-->
 
 <label for="mce-EMAIL">Email Address * </label>
-<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" style="color:#000;">
 
 <br/>
 
 <label for="mce-FNAME">First Name </label>
-<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+<input type="text" value="" name="FNAME" class="" id="mce-FNAME"style="color:#000;">
 
 <br/>
 
 <label for="mce-LNAME">Last Name </label>
-<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+<input type="text" value="" name="LNAME" class="" id="mce-LNAME"style="color:#000;">
 
 <br/>
 
