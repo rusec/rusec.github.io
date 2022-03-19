@@ -20,14 +20,5 @@
       <description>As a broke college student we know that buying that textbook from Barnes and Noble on College is less than ideal, especially with the terrible busses and the uncertainty if you would even need to use it in class.</description>
     </item>
     
-    <item>
-      <title>How To Setup Meghna Hugo</title>
-      <link>http://rusec.github.io/blog/installation/</link>
-      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
-      
-      <guid>http://rusec.github.io/blog/installation/</guid>
-      <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
-    </item>
-    
   </channel>
 </rss>
