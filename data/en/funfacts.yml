@@ -1,0 +1,16 @@
+################################# funfacts ##################################
+funfacts:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  counter_item:
+    # counter item loop
+    - title : "Competition Team in NJ"
+      icon : "ti-cup" # themify icon pack : https://themify.me/themify-icons
+      count : "1"
+    
+    # counter item loop
+    - title : "Workshops"
+      icon : "ti-archive" # themify icon pack : https://themify.me/themify-icons
+      count : "2"
+    

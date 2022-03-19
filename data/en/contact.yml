@@ -1,0 +1,31 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Us
+  subtitle : Contact Details
+  content : Our main method of contact would be on discord. Join Now! 
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "THE CAVE - Hill Center for the Mathematical Sciences 110 Frelinghuysen Rd. Piscataway, NJ 08854-8019"
+      
+    # - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+    #   info : "Phone: +880-31-000-000"
+      
+    # - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+    #   info : "Fax: +880-31-000-000"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: rusec4096@gmail.com"
+    - info : "Discord: https://discord.gg/M5QXjYmu8P" 
+
+  # # Contact form
+  # contact_form:
+  #   enable : true
+  #   form_action : "#" #contact form works with https://formspree.io
+  #   name : "Your Name"
+  #   email : "Your Email"
+  #   subject : "Subject"
+  #   message : "Message"
+  #   submit : "Submit"
