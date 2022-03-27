@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://rusec.github.io/"
-title = "Meghna"
+title = "RU Secure?"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
