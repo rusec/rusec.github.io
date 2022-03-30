@@ -20,7 +20,7 @@ team:
       # image_webp : images/team/team-2.webp
       image : images/team/rae_eboard_photo.jpg
       designation : Vice-President
-      content : I am the vice president.
+      content : Hi! I’m Rae, I’m a Computer Science major minoring in Psychology and Philosophy! I’m most interested in pen testing, offensive security, and game security, and I also do software engineering and web app development. After I graduate this spring I’ll be moving to Seattle to do security software engineering at Microsoft!
       social :
         - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
           link : "https://instagram.com/rae.sthetic?utm_medium=copy_link"
