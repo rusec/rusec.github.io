@@ -16,7 +16,7 @@
 			</div> -->
 			{{"<!-- /section title -->" | safeHTML }}
 		<!-- </div> -->
-		<div class="row">
+		<div class="d-flex justify-content-center">
 			<!-- <div class="col-lg-6">
 				<h2>{{ .subtitle | markdownify }}</h2>
 				<p> {{ .content | markdownify }}</p>
@@ -24,7 +24,8 @@
 				<img class="img-fluid lozad" data-src="{{ . | absURL }}" alt="image">
 				{{ end }}
 			</div> -->
-			<div class="col-lg-8 mx-auto">
+			<!-- <div class="col-lg-8 mx-auto"> -->
+			
 				<!-- <ul class="skill-bar">
 					{{ $.Scratch.Set "counter" 0 }}
 					{{ range $index, $element:= .skill_item }}
