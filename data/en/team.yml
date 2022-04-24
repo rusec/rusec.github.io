@@ -42,16 +42,16 @@ team:
         #   link : "#"
         
     # team member loop
-    - name : Philip Okoh
-      # image_webp : images/team/team-4.webp
-      image : images/team/philip_okoh_eboard_photo.jpg
-      designation : Intructor (Malware Analytics)
-      content : Hey guys, I am one of the cybersecurity instructors here teaching malware analytics. I spend most of my time reading code but never writing it!
-      social :
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/philip-okoh-a16733232"
-        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
-          link : "https://github.com/Philip-Okoh"
+    # - name : Philip Okoh
+    #   # image_webp : images/team/team-4.webp
+    #   image : images/team/philip_okoh_eboard_photo.jpg
+    #   designation : Intructor (Malware Analytics)
+    #   content : Hey guys, I am one of the cybersecurity instructors here teaching malware analytics. I spend most of my time reading code but never writing it!
+    #   social :
+    #     - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+    #       link : "https://www.linkedin.com/in/philip-okoh-a16733232"
+    #     - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+    #       link : "https://github.com/Philip-Okoh"
 
     - name : Arnav Lakkavajjala
       # image_webp : images/team/team-4.webp
