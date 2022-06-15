@@ -8,14 +8,13 @@ description : "As a broke college student it's tempting to get that free pdf fro
 ---
 
 
-As a broke college student we know that buying that textbook from Barnes and Noble on College is less than ideal, especially with the terrible busses and the uncertainty if you would even need to use it in class. The price is too high even for renting so we instinctivy look for better options.
-One of these options is piracy through websites like [**Virus Total**](https://www.libgen.is/). While these websites can save you money in the short term it is important to understand that these pdf can possibly contain viruses even if Libgen claim they are scanned. The information that will be read here can be used not only on libgen but any other website that asks you to download and open a pdf.
+As broke college students, we know that buying that textbook from Barnes and Noble on College is less than ideal, especially with the terrible busses and the uncertainty if you would even need to use it in class. The price is too high even for renting, so we instinctively look for better options. One of these options is piracy through websites like [**Virus Total**](https://www.libgen.is/). While these websites can save you money in the short term, it is essential to understand that these pdf can contain viruses even if Libgen claim they have scanned them. The information read here can be used on Libgen and any other website that asks you to download and open a pdf and Word document.
 
 **VIRUSTOTAL**
 
-Virus is a great resource that can be used to determine if a well known pdf has been reported as a virus in the past. You see all programs on the computer are distinct in their own way with what is known as a hash signature. Well known hash signatures are md5, sha1 and sha256. These signatures are like the fingerprint for a file. If anything about these files changes so does the signature. For a pdf though, they are typically read and distributed and not frequently editted so these signature tools are very effective at identifying pdfs which have been reported as bad. Luckily you don't have to worry about this yourself as VirusTotal handles this for you.
+VirusTotal is a great resource we can use to determine if a known pdf has been flagged as a virus. You see, all programs on the computer are distinct from what is known as a hash signature. Well-known hash signatures are md5, sha1, and sha256. These signatures are like the fingerprint for a file. If anything about these files changes, so does the signature. For pdfs, typically read and distributed and not frequently edited, these signature tools are very effective at identifying pdfs flagged as malicious by trusted security Vendors. You don't have to worry about this, as VirusTotal handles this for you.
 
-Simply upload the pdf to the website and it will check the signature with over 50+ Antivirus signature databases to see if it has been flagged. IF it lights up like a christmas tree maybe that pdf just isn't for you. Sometimes though maybe one AV flagged it as a signature and this is typically a false positive but we still advise caution.
+Upload the pdf to the website, and it will check the signature with over 50+ Antivirus signature databases. If it lights up like a Christmas tree,  that pdf just isn't for you. If just one AV flagged it as malware, we might consider it a false positive.
 
 ![Figure 1](https://github.com/rusec/BlogPostPhotos/blob/master/BlogPost1/virustoal_hits_more.png?raw=true)
 
@@ -27,8 +26,10 @@ Ok, so you've learned about virus total and now you're a cut above the rest in t
 
 That's where **APP.ANY.RUN** comes in.
 
-App.Any.run acts as a sanbox. A sandbox is a controlled virtual environment that runs your files in a enclosed environemnt an can determine based of their behavior if they are malicious or not. For App.Any.run you do need an account but it is **FREE**. Next simply upload your suspicious pdf document and then let the virtual machine run on their website. After running for about a minute App.Any.Run will give you a verdict if it malicious or not. 
+App.Any.run acts as a sandbox. A sandbox is a controlled virtual environment that runs your files in an enclosed environment and can determine based on their behavior if they are malicious or not. For App.Any.run, you do need an account, but it is **FREE**. Next, upload your suspicious pdf document and let the virtual machine run on their website. After running for about a minute App.Any.Run will give you a verdict if it is malicious or not. 
 
 ![Figure 3](https://github.com/rusec/BlogPostPhotos/blob/master/BlogPost1/App.any.run.png?raw=true#center)
 
-If it is, throw that pdf away and pat yourself on the back from avoiding a catastrophe. If it isn't... well you just saved yourself a 100 bucks!
+If it is, throw that pdf away and pat yourself on the back to avoid a catastrophe. 
+
+In conclusion, VirusTotal, and APP.ANY.RUN are simple tools that anyone can use to determine if what you put on your computer is malicious or not. They should be utilized because of how quickly a result you can get. They can save you a lot of money as ransomware and credit card stealers are typically the main malware distributed through these documents. The internet is vast. Be safe out there!
