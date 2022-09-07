@@ -32,7 +32,7 @@ team:
     # team member loop
     - name : Michael Bazarsky
       # image_webp : images/team/team-3.webp
-      image : images/team/mike_eboard_photo.png
+      image : images/team/mike_eboard_photo.jpg
       designation : Treasurer
       content : I am the treasurer.
       social :
