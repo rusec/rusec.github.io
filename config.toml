@@ -47,18 +47,18 @@ url = "#about"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "services"
-url = "#services"
+name = "activities"
+url = "#activities"
 weight = 2
 
-[[Languages.en.menu.main]]
-name = "portfolio"
-url = "#portfolio"
-weight = 3
+#[[Languages.en.menu.main]]
+#name = "portfolio"
+#url = "#portfolio"
+#weight = 3
 
 [[Languages.en.menu.main]]
-name = "team"
-url = "#team"
+name = "eboard"
+url = "#eboard"
 weight = 4
 
 [[Languages.en.menu.main]]
