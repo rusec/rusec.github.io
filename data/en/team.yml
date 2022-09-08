@@ -30,7 +30,7 @@ team:
     # team member loop
     - name : Michael Bazarsky
       # image_webp : images/team/team-3.webp
-      image : images/team/michael_eboard_photo.jpg
+      image : images/team/mike_eboard_photo.jpg
       designation : Treasurer
       content : Hi! My name is Michael and I am the Treasurer of RU Security. I am a Junior studying Computer Science. My interests in cybersecurity are pentesting and software protection. Some of my hobbies include hanging out with my friends and driving around New Jersey exploring what it has to offer. I am also interested in mechanical keyboards and have built my own.
       social :
