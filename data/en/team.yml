@@ -18,7 +18,7 @@ team:
     # team member loop
     - name : Philip Okoh
       # image_webp : images/team/team-4.webp
-      image : images/team/philip_okoh_eboard_photo.jpg
+      image : images/team/philip_eboard_photo.jpg
       designation : Vice-President / Intructor (Malware Analytics)
       content : Hey guys, I am one of the cybersecurity instructors here teaching malware analytics. I spend most of my time reading code but never writing it!
       social :
@@ -61,7 +61,7 @@ team:
 
     - name : Yousef Attia
       # image_webp : images/team/team-4.webp
-      image : images/team/yousef_eboard_photo.png
+      image : images/team/yousef_eboard_photo.jpg
       designation : 
       content : Hello, I'm Yousef, I work on the logos and  t-shirts. And I take part in  the clubs hacking/security projects.
       social :
@@ -70,7 +70,7 @@ team:
 
     - name : Jay Patel
       # image_webp : images/team/team-4.webp
-      image : images/team/jay_eboard_photo.png
+      image : images/team/jay_eboard_photo.jpg
       designation : 
       content : My name is Jay Patel and I’m currently a junior at Rutgers. I am an Information Technology & Informatics major with a minor in Critical Intelligence Studies. I’m currently following the Cybersecurity ITI-guided pathway and I plan to pursue a career in Cybersecurity. My interests within the field lie in data privacy and security, as well as penetration testing. In my free time, I engage in game development and coding.
       social :
@@ -79,7 +79,7 @@ team:
 
     - name : Adam Paulina
       # image_webp : images/team/team-4.webp
-      image : images/team/adam_eboard_photo.png
+      image : images/team/adam_eboard_photo.jpg
       designation : Webmaster
       content : Hi, I'm Adam Paulina and I'm the webmaster of RUSEC! I'm a junior majoring in computer science, and I'm very interested in reverse engineering and vulnerability discovery. I plan to go into a career in cybersecurity. In the club, other than running the website, I help out with the malware analysis workshops.
       social :
