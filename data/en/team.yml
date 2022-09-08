@@ -14,44 +14,30 @@ team:
           link : "https://www.linkedin.com/in/cyrus-majd"
         - icon : ti-github # themify icon pack : https://themify.me/themify-icons
           link : "https://github.com/Cyrus-Majd"
-        
+          
     # team member loop
-    - name : Rae Hochwald
-      # image_webp : images/team/team-2.webp
-      image : images/team/rae_eboard_photo.jpg
-      designation : Vice-President
-      content : Hi! I’m Rae, I’m a Computer Science major minoring in Psychology and Philosophy! I’m most interested in pen testing, offensive security, and game security, and I also do software engineering and web app development. After I graduate this spring I’ll be moving to Seattle to do security software engineering at Microsoft!
-      social :
-        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
-          link : "https://instagram.com/rae.sthetic?utm_medium=copy_link"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/rae-hochwald"
-        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
-          link : "https://github.com/2000rdh"
+     - name : Philip Okoh
+       # image_webp : images/team/team-4.webp
+       image : images/team/philip_okoh_eboard_photo.jpg
+       designation : Vice-President / Intructor (Malware Analytics)
+       content : Hey guys, I am one of the cybersecurity instructors here teaching malware analytics. I spend most of my time reading code but never writing it!
+       social :
+         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+           link : "https://www.linkedin.com/in/philip-okoh-a16733232"
+         - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+           link : "https://github.com/Philip-Okoh"
         
     # team member loop
     - name : Michael Bazarsky
       # image_webp : images/team/team-3.webp
       image : images/team/michael_eboard_photo.jpg
       designation : Treasurer
-      content : I am the treasurer.
+      content : Hi! My name is Michael and I am the Treasurer of RU Security. I am a Junior studying Computer Science. My interests in cybersecurity are pentesting and software protection. Some of my hobbies include hanging out with my friends and driving around New Jersey exploring what it has to offer. I am also interested in mechanical keyboards and have built my own.
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "https://www.linkedin.com/in/michael-bazarsky-11187b18b"
         # - icon : ti-github # themify icon pack : https://themify.me/themify-icons
         #   link : "#"
-        
-    # team member loop
-    # - name : Philip Okoh
-    #   # image_webp : images/team/team-4.webp
-    #   image : images/team/philip_okoh_eboard_photo.jpg
-    #   designation : Intructor (Malware Analytics)
-    #   content : Hey guys, I am one of the cybersecurity instructors here teaching malware analytics. I spend most of my time reading code but never writing it!
-    #   social :
-    #     - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-    #       link : "https://www.linkedin.com/in/philip-okoh-a16733232"
-    #     - icon : ti-github # themify icon pack : https://themify.me/themify-icons
-    #       link : "https://github.com/Philip-Okoh"
 
     - name : Arnav Lakkavajjala
       # image_webp : images/team/team-4.webp
@@ -72,3 +58,32 @@ team:
       social :
         - icon : ti-github # themify icon pack : https://themify.me/themify-icons
           link : "https://github.com/PAndaContron/"
+
+    - name : Yousef Attia
+      # image_webp : images/team/team-4.webp
+      image : images/team/yousef_eboard_photo.png
+      designation : 
+      content : Hello, I'm Yousef, I work on the logos and  t-shirts. And I take part in  the clubs hacking/security projects.
+      social :
+        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+          link : https://github.com/YousefAttia-git
+
+    - name : Jay Patel
+      # image_webp : images/team/team-4.webp
+      image : images/team/jay_eboard_photo.png
+      designation : 
+      content : My name is Jay Patel and I’m currently a junior at Rutgers. I am an Information Technology & Informatics major with a minor in Critical Intelligence Studies. I’m currently following the Cybersecurity ITI-guided pathway and I plan to pursue a career in Cybersecurity. My interests within the field lie in data privacy and security, as well as penetration testing. In my free time, I engage in game development and coding.
+      social :
+      #  - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+      #    link : "https://github.com/PAndaContron/"
+
+    - name : Adam Paulina
+      # image_webp : images/team/team-4.webp
+      image : images/team/adam_eboard_photo.png
+      designation : Webmaster
+      content : Hi, I'm Adam Paulina and I'm the webmaster of RUSEC! I'm a junior majoring in computer science, and I'm very interested in reverse engineering and vulnerability discovery. I plan to go into a career in cybersecurity. In the club, other than running the website, I help out with the malware analysis workshops.
+      social :
+        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+          link : "https://github.com/enderdrag64/"
+          
+          
