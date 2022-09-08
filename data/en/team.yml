@@ -20,7 +20,7 @@ team:
       # image_webp : images/team/team-4.webp
       image : images/team/philip_eboard_photo.jpg
       designation : Vice-President / Intructor (Malware Analytics)
-      content : Hey guys, I am one of the cybersecurity instructors here teaching malware analytics. I spend most of my time reading code but never writing it!
+      content : Hey, my name is Philip and I one of the lead Reverse Engineers and Malware Analyst for the Reverse Engineering team. In my free time I love malware research and martial arts.
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "https://www.linkedin.com/in/philip-okoh-a16733232"
