@@ -62,7 +62,7 @@ team:
     - name : Yousef Attia
       # image_webp : images/team/team-4.webp
       image : images/team/yousef_eboard_photo.jpg
-      designation : 
+      designation : Logo Designer
       content : Hello, I'm Yousef, I work on the logos and  t-shirts. And I take part in  the clubs hacking/security projects.
       social :
         - icon : ti-github # themify icon pack : https://themify.me/themify-icons
@@ -71,11 +71,11 @@ team:
     - name : Jay Patel
       # image_webp : images/team/team-4.webp
       image : images/team/jay_eboard_photo.jpg
-      designation : 
+      designation : Secretary
       content : My name is Jay Patel and I’m currently a junior at Rutgers. I am an Information Technology & Informatics major with a minor in Critical Intelligence Studies. I’m currently following the Cybersecurity ITI-guided pathway and I plan to pursue a career in Cybersecurity. My interests within the field lie in data privacy and security, as well as penetration testing. In my free time, I engage in game development and coding.
       social :
-      #  - icon : ti-github # themify icon pack : https://themify.me/themify-icons
-      #    link : "https://github.com/PAndaContron/"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/jayp424"
 
     - name : Adam Paulina
       # image_webp : images/team/team-4.webp
