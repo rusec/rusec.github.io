@@ -8,7 +8,7 @@ team:
       # image_webp : images/team/team-1.webp
       image : images/team/cyrus_eboard_photo.jpg
       designation : President
-      content : I am the president.
+      content : I'm the president of the club! I love pentesting and reverse engineering. I'm really interested in hardware hacking and I like making things do what they weren't designed to do! I also like biking, skiing, and eating pizza B)
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "https://www.linkedin.com/in/cyrus-majd"
