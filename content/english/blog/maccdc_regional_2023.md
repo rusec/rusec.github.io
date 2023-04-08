@@ -9,7 +9,7 @@ description : "After winning 1st place in the qualifiers, RU Security heads off 
 
 This weekend was filled with a ton of action, and we faced several obstacles along the way. As it was the first time, we had ever reached this stage of the competition, we were unsure of what to expect. The RU Security club traveled to Prince George Community college in Maryland to participate in the regional Mid-Atlantic Collegiate Cyber Defense Competition (MACCDC). The room was filled with a mixture of excitement and fear. On the first night, we gathered as a team to discuss our strategy and the overall layout of the competition.
 
-{{< figure src="/images/blog/maccdc_regional_2023/review_before_battle.jpg"> caption="(Left) Team Captain Elizabeth Laub leads team strategy meeting." width=640 height=480 }}
+{{< figure src="/images/blog/maccdc_regional_2023/review_before_battle.jpg" caption="(Left) Team Captain Elizabeth Laub leads team strategy meeting." width=640 height=480 >}}
 #![Figure 1](/images/blog/maccdc_regional_2023/review_before_battle.jpg)
 #(Left) Team Captain Elizabeth Laub leads team strategy meeting.
 
