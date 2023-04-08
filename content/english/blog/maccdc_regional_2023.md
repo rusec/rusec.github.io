@@ -71,19 +71,19 @@ One of the factors for a successful team is the support system they have. Philip
 
 {{< figure src="/images/blog/maccdc_regional_2023/emrah.jpg" caption="Emrah Yilgen" width=480 height=640 >}}
 
-**What was the most challenging aspect about the competition? **
+**What was the most challenging aspect about the competition?**
 
 *“Understanding the entire system, figuring out what each service used as far as network ports and protocols and the purpose of the services and their possible misconfigurations and vulnerabilities.”*
 
-**After the competition concluded, how did you feel about your chances of winning? **
+**After the competition concluded, how did you feel about your chances of winning?**
 
 *“I felt that we had done well even though it was out first time at competing at this level but I was aware of the fact that we competed against teams that had much more experience and knowledge than us since they had competed at this event many more times before.”*
 
-**What skills did you learn while competing? **
+**What skills did you learn while competing?**
 
 *“I learnt mostly about working in a team environment with the same goal of securing a system. Also, learnt a ton of new stuff related to computers, systems, security from my teammates, form the red team and other people who were involved. I now also have the experience of being a part of a blue team and fight against a very skillful hackers in a live setting.”*
 
-**What got you interested in cybersecurity? **
+**What got you interested in cybersecurity?**
 
 *“I am changing my career from music to technology. When I fist started studying computer science at Rutgers, I did not know what I want to do in the field but carefully thinking through my options in the tech field, I felt security will suit me the best since I think it serves a higher purpose to help protect people online which I think it is an instinct remained from serving in the military. I also got hacked many years ago, so I want to help others to not to go through the same bad experience.”*
 
