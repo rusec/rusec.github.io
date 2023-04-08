@@ -170,7 +170,7 @@ Did you feel prepared entering the competition? After the competition concluded,
 
 The weekend was filled with fun movements as well. From driving to several restaurants to find a place to eat, to watching movies together as a team, or visiting the University of Maryland, there was never a dull moment on the trip.
 
-{{< figure src="/images/blog/maccdc_regional_2023/phone_hacking.jpg" caption="Arnav attempting phone hacking" width=640 height=480 >}}
+{{< figure src="/images/blog/maccdc_regional_2023/phone_hacking.jpg" caption="Arnav attempting phone hacking" width=480 height=640 >}}
 
 !{{< figure src="/images/blog/maccdc_regional_2023/team_photo.jpg" caption="Post Competition Team Photo" width=640 height=480 >}}
 
