@@ -11,6 +11,7 @@ This weekend was filled with a ton of action, and we faced several obstacles alo
 
 {{< figure src="/images/blog/maccdc_regional_2023/review_before_battle.jpg" caption="(Left) Team Captain Elizabeth Laub leads team strategy meeting." width=640 height=480 >}}
 
+
 **LAYOUT OF THE COMPETITION**
 
 Each team comprises 10 members, with two serving as alternates and one appointed as the team captain. As the blue team, each member is responsible for securing the machines and services assigned to them, which includes web servers, database servers, workstation endpoints, and more.
@@ -32,6 +33,7 @@ The competition lasted 2 days, operating from 9 -5 the first day, and 9-4 the se
 One of the factors for a successful team is the support system they have. Philip Okoh, Yousef Attia, and Michael Barzarsky were not competing, but they were willing to help the team. They brought the team food and water during their lunch break, ensuring that they operated at full capacity.
 
 {{< figure src="/images/blog/maccdc_regional_2023/lunch_time_poses.jpg" caption="Five Guys is the best" width=640 height=480 >}}
+
 
 **INTERVIEW WITH THE COMPETITORS**
 
@@ -166,6 +168,7 @@ Did you feel prepared entering the competition? After the competition concluded,
 
 *“I’ve always been interested in cybersecurity, particularly network security and embedded systems security. I’m currently studying networking and doing research in systems security, and I look forward to seeing what exciting technologies I get to work with in the future. Being a team member competing in CCDC, I’ve gained an appreciation for how intricate and complex our modern digital systems have become and the effort it takes to secure them.”*
 
+
 **POST COMPETITION ACTIVITIES**
 
 The weekend was filled with fun movements as well. From driving to several restaurants to find a place to eat, to watching movies together as a team, or visiting the University of Maryland, there was never a dull moment on the trip.
@@ -183,6 +186,7 @@ The weekend was filled with fun movements as well. From driving to several resta
 The Sunday after the competition members of the team took a quick trip down to DC to check out the monuments, viewing the Washington, Lincoln, Korean War, and Vietnam War memorials. Getting great food and viewing national treasures are always great with friends!
 
 {{< figure src="/images/blog/maccdc_regional_2023/DC_TRIP.jpg" width=640 height=480 >}}
+
 
 **WHAT'S NEXT?**
 
