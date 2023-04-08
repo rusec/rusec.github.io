@@ -176,7 +176,7 @@ The weekend was filled with fun movements as well. From driving to several resta
 
 {{< figure src="/images/blog/maccdc_regional_2023/cyrus_and_lars.jpg" caption="President Cyrus with club Advisor Lars Sorensen" width=640 height=480 >}}
 
-{{< figure src="/images/blog/maccdc_regional_2023/team_dinner.jpg" caption="TGIF Dinner (2nd time that weekend)" width=640 height=480 >}}
+{{< figure src="/images/blog/maccdc_regional_2023/team_dinner.jpg" caption="TGIF Dinner (2nd time that weekend)" width=480 height=640 >}}
 
 {{< figure src="/images/blog/maccdc_regional_2023/UMD.jpg" caption="Visiting UMD" width=640 height=480 >}}
 
