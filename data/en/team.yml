@@ -6,7 +6,7 @@ team:
     # team member loop
     - name : Elizabeth Laub
       # image_webp : images/team/team-1.webp
-      image : images/team/liz_eboard_photo.jpg
+      image : images/team/liz_eboard_photo.png
       designation : President
       content : "Hi, I'm Liz, I'm the President and the CCDC Team Captain. I am a senior studying computer science. I enjoy research and learning more about security architecture. I also have a lovely cat named Scott =(^.w.^)="
       social : 
