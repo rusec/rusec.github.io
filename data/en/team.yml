@@ -109,7 +109,7 @@ team:
           link : "https://www.linkedin.com/in/rahulraj-rajesh/"
     - name : Serge Kuznetsov
       # image_webp : images/team/team-4.webp
-      image : images/team/serge_eboard_photo.jpg
+      image : images/team/serge_eboard_photo.png
       designation : Graphic Designer
       content : Hi, I’m Serge and I’m the graphic designer for RUSec. I’m a sophomore computer science major with minors in music and critical intelligence, and I’m really into cryptography and reverse engineering. In my free time I enjoy vinyl collecting and puzzle solving!
       social :
