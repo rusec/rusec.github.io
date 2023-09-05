@@ -82,22 +82,6 @@ team:
     #  social :
     #    - icon : ti-github # themify icon pack : https://themify.me/themify-icons
     #      link : https://github.com/YousefAttia-git
-    - name : Rahulraj Rajesh
-      # image_webp : images/team/team-4.webp
-      image : images/team/rahulraj_eboard_photo.jpg
-      designation : Event Coordinator
-      content : I'm Rahulraj Rajesh and I'm a junior majoring in Computer Science and minoring in Cognitive Science. I love programming, learning about cybersecurity, flying drones, and playing video games! My expertise in cybersecurity is on networking and security hardening.
-      social :
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/rahulraj-rajesh/"
-    - name : Harris Ransom
-      # image_webp : images/team/team-4.webp
-      image : images/team/harris_eboard_photo.jpg
-      designation : Instructor
-      content : Hi! I’m Harris Ransom and I’m an instructor for the Rutgers Security Club. I’m a sophomore Electrical and Computer Engineering student with a particular interest in hardware and systems security. Within RUSec, I also compete in CTF challenges and the Mid-Atlantic CCDC competition. I look forward to getting to know you and helping you develop your cybersecurity knowledge and skills! 
-      social :
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/jayp424"
     - name : Jay Patel
       # image_webp : images/team/team-4.webp
       image : images/team/jay_eboard_photo.jpg
@@ -117,5 +101,28 @@ team:
           link : "https://www.linkedin.com/in/adam-paulina"
       #  - icon : ti-github # themify icon pack : https://themify.me/themify-icons
       #    link : "https://github.com/enderdrag64/"
-          
+    - name : Rahulraj Rajesh
+      # image_webp : images/team/team-4.webp
+      image : images/team/rahulraj_eboard_photo.jpg
+      designation : Event Coordinator
+      content : I'm Rahulraj Rajesh and I'm a junior majoring in Computer Science and minoring in Cognitive Science. I love programming, learning about cybersecurity, flying drones, and playing video games! My expertise in cybersecurity is on networking and security hardening.
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/rahulraj-rajesh/"
+    - name : Harris Ransom
+      # image_webp : images/team/team-4.webp
+      image : images/team/harris_eboard_photo.jpg
+      designation : Instructor
+      content : Hi! I’m Harris Ransom and I’m an instructor for the Rutgers Security Club. I’m a sophomore Electrical and Computer Engineering student with a particular interest in hardware and systems security. Within RUSec, I also compete in CTF challenges and the Mid-Atlantic CCDC competition. I look forward to getting to know you and helping you develop your cybersecurity knowledge and skills! 
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/jayp424"
+    - name : Mohamad Khawam
+      # image_webp : images/team/team-4.webp
+      image : images/team/harris_eboard_photo.jpg
+      designation : Instructor
+      content : Hey I’m mo, I specialize is web security and web development. I do everything in node js because it makes life easier
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/mohamad-k/"
           
