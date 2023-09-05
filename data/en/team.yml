@@ -119,7 +119,7 @@ team:
           link : "https://www.linkedin.com/in/jayp424"
     - name : Mohamad Khawam
       # image_webp : images/team/team-4.webp
-      image : images/team/harris_eboard_photo.jpg
+      image : images/team/mohamad_eboard_photo.jpg
       designation : Instructor
       content : Hey I’m mo, I specialize is web security and web development. I do everything in node js because it makes life easier
       social :
