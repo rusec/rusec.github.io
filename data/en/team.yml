@@ -4,75 +4,105 @@ team:
   title : Eboard
   team_member :
     # team member loop
-    - name : Cyrus Majd
+    - name : Elizabeth Laub
       # image_webp : images/team/team-1.webp
-      image : images/team/cyrus_eboard_photo.jpg
+      image : images/team/liz_eboard_photo.jpg
       designation : President
-      content : I'm the president of the club! I love pentesting and reverse engineering. I'm really interested in hardware hacking and I like making things do what they weren't designed to do! I also like biking, skiing, and eating pizza B)
-      social :
+      content : "Hi, I'm Liz, I'm the President and the CCDC Team Captain. I am a senior studying computer science. I enjoy research and learning more about security architecture. I also have a lovely cat named Scott =(^.w.^)="
+      social : 
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/cyrus-majd"
-        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
-          link : "https://github.com/Cyrus-Majd"
-          
-    # team member loop
-    - name : Philip Okoh
-      # image_webp : images/team/team-4.webp
-      image : images/team/philip_eboard_photo.jpg
-      designation : Vice-President / Intructor (Malware Analytics)
-      content : Hey, my name is Philip and I one of the lead Reverse Engineers and Malware Analyst for the Reverse Engineering team. In my free time I love malware research and martial arts.
-      social :
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/philip-okoh-a16733232"
-        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
-          link : "https://github.com/Philip-Okoh"
-        
-    # team member loop
-    - name : Michael Bazarsky
-      # image_webp : images/team/team-3.webp
-      image : images/team/mike_eboard_photo.jpg
-      designation : Treasurer
-      content : Hi! My name is Michael and I am the Treasurer of RU Security. I am a Junior studying Computer Science. My interests in cybersecurity are pentesting and software protection. Some of my hobbies include hanging out with my friends and driving around New Jersey exploring what it has to offer. I am also interested in mechanical keyboards and have built my own.
-      social :
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/michael-bazarsky-11187b18b"
-        # - icon : ti-github # themify icon pack : https://themify.me/themify-icons
-        #   link : "#"
-
-    - name : Arnav Lakkavajjala
-      # image_webp : images/team/team-4.webp
-      image : images/team/arnav_eboard_photo.jpg
-      designation : Intructor (Malware Analytics)
-      content : My name's Arnav, I am a Computer Science major minoring in Philosophy. My interests within the discipline of cybersecurity lie within reverse engineering/network exploitation, as well as malware analysis. In my spare time, I like to do various CTFs and exploitation challenges on HackTheBox, Over The Wire etc., as well as code small projects of my own for fun. Some of my hobbies outside of CS include playing guitar/making music, watching old movies, playing badminton and buying more games on Steam than I will ever play.
-      social :
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/in/arnav-lakkavajjala-7347891a0"
-        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
-          link : "https://github.com/rozzledred"
-
+          link : "https://www.linkedin.com/in/elizabeth-l-laub"
+    #    - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+    #      link : ""
+    #- name : Cyrus Majd
+      # image_webp : images/team/team-1.webp
+    #  image : images/team/cyrus_eboard_photo.jpg
+    #  designation : President
+    #  content : I'm the president of the club! I love pentesting and reverse engineering. I'm really interested in hardware hacking and I like making things do what they weren't designed to do! I also like biking, skiing, and eating pizza B)
+    #  social :
+    #    - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+    #      link : "https://www.linkedin.com/in/cyrus-majd"
+    #    - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+    #      link : "https://github.com/Cyrus-Majd"  
     - name : Rajat Patel
       # image_webp : images/team/team-4.webp
       image : images/team/rajat_eboard_photo.png
-      designation : Intructor (Pentesting)
-      content : Hi, I'm Rajat Patel and I'm an instructor for the RU Security Club! I'm a sophomore studying computer science and math, and I enjoy cybersecurity a lot. In particular, I'm especially interested in cryptography and reverse engineering. I run the weekly pentesting and CTF workshops, where we go over lots of important information you need to know for penetration testing and practice doing some CTF challenges. Hope to see you there!
+      designation : Vice President/Instructor
+      content : Hi, I'm Rajat Patel and I'm a vice president and an instructor for the RU Security Club! I'm a senior studying computer science and math, and I enjoy cybersecurity a lot. In particular, I'm especially interested in cryptography and reverse engineering. Hope to see you there!
       social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/rajat-patel-18915b1a4/"
         - icon : ti-github # themify icon pack : https://themify.me/themify-icons
           link : "https://github.com/PAndaContron/"
-
-    - name : Yousef Attia
+    #- name : Philip Okoh
       # image_webp : images/team/team-4.webp
-      image : images/team/yousef_eboard_photo.jpg
-      designation : Logo Designer
-      content : Hello, I'm Yousef, I work on the logos and  t-shirts. And I take part in  the clubs hacking/security projects.
+    #  image : images/team/philip_eboard_photo.jpg
+    #  designation : Vice-President / Intructor (Malware Analytics)
+    #  content : Hey, my name is Philip and I one of the lead Reverse Engineers and Malware Analyst for the Reverse Engineering team. In my free time I love malware research and martial arts.
+    #  social :
+    #    - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+    #      link : "https://www.linkedin.com/in/philip-okoh-a16733232"
+    #    - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+    #      link : "https://github.com/Philip-Okoh"
+    - name : Matthew Bixby
+      # image_webp : images/team/team-3.webp
+      image : images/team/matt_bixby_eboard_photo.jpg
+      designation : Treasurer
+      content : Hi, my name is Matthew Bixby, and I am the RU Security Treasurer. I am a Junior majoring in Computer Science, minoring in Psychology and Critical Intelligence Studies. I am interested in penetration testing and reverse engineering, which I enjoy learning on TryHackMe and HackTheBox. Some of my hobbies include playing soccer, skiing, and watching movies.
       social :
-        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
-          link : https://github.com/YousefAttia-git
-
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/matthew-bixby-47b2ab205/"
+        # - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+    #- name : Michael Bazarsky
+      # image_webp : images/team/team-3.webp
+    #  image : images/team/mike_eboard_photo.jpg
+    #  designation : Treasurer
+    #  content : Hi! My name is Michael and I am the Treasurer of RU Security. I am a Junior studying Computer Science. My interests in cybersecurity are pentesting and software protection. Some of my hobbies include hanging out with my friends and driving around New Jersey exploring what it has to offer. I am also interested in mechanical keyboards and have built my own.
+    #  social :
+    #    - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+    #      link : "https://www.linkedin.com/in/michael-bazarsky-11187b18b"
+        # - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+        #   link : "#"
+    #- name : Arnav Lakkavajjala
+      # image_webp : images/team/team-4.webp
+    #  image : images/team/arnav_eboard_photo.jpg
+    #  designation : Intructor (Malware Analytics)
+    #  content : My name's Arnav, I am a Computer Science major minoring in Philosophy. My interests within the discipline of cybersecurity lie within reverse engineering/network exploitation, as well as malware analysis. In my spare time, I like to do various CTFs and exploitation challenges on HackTheBox, Over The Wire etc., as well as code small projects of my own for fun. Some of my hobbies outside of CS include playing guitar/making music, watching old movies, playing badminton and buying more games on Steam than I will ever play.
+    #  social :
+    #    - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+    #      link : "https://www.linkedin.com/in/arnav-lakkavajjala-7347891a0"
+    #    - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+    #      link : "https://github.com/rozzledred"
+    #- name : Yousef Attia
+      # image_webp : images/team/team-4.webp
+    #  image : images/team/yousef_eboard_photo.jpg
+    #  designation : Logo Designer
+    #  content : Hello, I'm Yousef, I work on the logos and  t-shirts. And I take part in  the clubs hacking/security projects.
+    #  social :
+    #    - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+    #      link : https://github.com/YousefAttia-git
+    - name : Rahulraj Rajesh
+      # image_webp : images/team/team-4.webp
+      image : images/team/rahulraj_eboard_photo.jpg
+      designation : Event Coordinator
+      content : I'm Rahulraj Rajesh and I'm a junior majoring in Computer Science and minoring in Cognitive Science. I love programming, learning about cybersecurity, flying drones, and playing video games! My expertise in cybersecurity is on networking and security hardening.
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/rahulraj-rajesh/"
+    - name : Harris Ransom
+      # image_webp : images/team/team-4.webp
+      image : images/team/harris_eboard_photo.jpg
+      designation : Instructor
+      content : Hi! I’m Harris Ransom and I’m an instructor for the Rutgers Security Club. I’m a sophomore Electrical and Computer Engineering student with a particular interest in hardware and systems security. Within RUSec, I also compete in CTF challenges and the Mid-Atlantic CCDC competition. I look forward to getting to know you and helping you develop your cybersecurity knowledge and skills! 
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/jayp424"
     - name : Jay Patel
       # image_webp : images/team/team-4.webp
       image : images/team/jay_eboard_photo.jpg
       designation : Secretary
-      content : My name is Jay Patel and I’m currently a junior at Rutgers. I am an Information Technology & Informatics major with a minor in Critical Intelligence Studies. I’m currently following the Cybersecurity ITI-guided pathway and I plan to pursue a career in Cybersecurity. My interests within the field lie in data privacy and security, as well as penetration testing. In my free time, I engage in game development and coding.
+      content : My name is Jay Patel and I’m currently a senior at Rutgers. I am an Information Technology & Informatics major with a minor in Critical Intelligence Studies. I’m currently following the Cybersecurity ITI-guided pathway and I plan to pursue a career in Cybersecurity. My interests within the field lie in data privacy and security, as well as penetration testing. In my free time, I engage in game development and coding.
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "https://www.linkedin.com/in/jayp424"
@@ -80,10 +110,12 @@ team:
     - name : Adam Paulina
       # image_webp : images/team/team-4.webp
       image : images/team/adam_eboard_photo.jpg
-      designation : Webmaster
-      content : Hi, I'm Adam Paulina and I'm the webmaster of RUSEC! I'm a junior majoring in computer science, and I'm very interested in reverse engineering and vulnerability discovery. I plan to go into a career in cybersecurity. In the club, other than running the website, I help out with the malware analysis workshops.
+      designation : Webmaster/Instructor
+      content : Hi, I'm Adam Paulina and I'm the webmaster of RUSEC! I'm a senior majoring in computer science, and I'm very interested in reverse engineering and vulnerability discovery. I plan to go into a career in cybersecurity. In the club, other than running the website, I teach some of the weekly workshops.
       social :
-        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
-          link : "https://github.com/enderdrag64/"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/adam-paulina"
+      #  - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+      #    link : "https://github.com/enderdrag64/"
           
           
