@@ -41,10 +41,10 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 
 ################### English Navigation ########################
-[[Languages.en.menu.main]]
-name = "about"
-url = "#about"
-weight = 1
+#[[Languages.en.menu.main]]
+#name = "about"
+#url = "#about"
+#weight = 1
 
 [[Languages.en.menu.main]]
 name = "activities"
@@ -57,13 +57,13 @@ weight = 2
 #weight = 3
 
 [[Languages.en.menu.main]]
-name = "eboard"
-url = "#team"
+name = "blog"
+url = "#blog"
 weight = 4
 
 [[Languages.en.menu.main]]
-name = "blog"
-url = "#blog"
+name = "eboard"
+url = "#team"
 weight = 5
 
 [[Languages.en.menu.main]]
