@@ -2,9 +2,9 @@
 banner:
   enable : true
   # bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/back_drop.png"
+  bg_image : "images/starry_night_big.png"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Ru Security"
+  title : "RU Security Club"
   content : "Join us as we fight to defend the Internet"
   button:
     enable : true
