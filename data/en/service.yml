@@ -1,34 +1,19 @@
 ################################# Service #################################
 service:
   enable : true
-  title : What We Do!
+  title : What We Do:
   service_item :
     # service item loop
-    - name : Malware Analysis
+    - name : Workshops
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Get hands on experience analyzing real world malware samples and knowing what makes them tick.
+      content : Weekly hands-on workshops from rotating instructors on a variety of cybersecurity topics.
       
     # service item loop
-    - name : Pentesting
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Learn how to break into "secure" systems while learning the skills real world hackers use.
-      
-    # service item loop
-    - name : CTF Competitions
+    - name : Competitions
       icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-      content : Gain the skill set needed to win CTF Competitions.
-      
-    # service item loop
-    - name : Create Something New
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Join us as we create new challenges that have been features in CTF compeititions in New Jersey.
-      
-    # service item loop
-    - name : Career and Internship Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Get advice on the first steps your need to start your career in Cybersecurity. We offer help in certification help.
+      content : RUSEC members compete in many competitions, including CCDC, ISTS, CPTC, and a variety of CTFs. 
       
     # service item loop
     - name : Guest Speakers
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Get first hand experience from industry professionals as they share their experiences and how to get a job in the field.
+      content : Learn from industry professionals as they share their firsthand experiences and give career advice.
