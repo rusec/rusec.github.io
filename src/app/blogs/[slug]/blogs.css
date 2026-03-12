@@ -1,0 +1,12 @@
+.blog p:has(strong) {
+    padding-top: 2em;
+    padding-bottom: 1em;
+}
+.blog img {
+    max-width: 60%;
+    max-height: 500px;
+}
+.blog p:not(:has(strong)) {
+    padding-top: 0.2em;
+    padding-bottom: 0.5em;
+}
