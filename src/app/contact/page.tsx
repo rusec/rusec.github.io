@@ -15,14 +15,14 @@ function page({}: Props) {
                     <p className="pb-2">
                         If you have any questions or would like to learn more about the Rutgers Cybersecurity Club (RUSEC), we’d love to hear from
                         you! Whether you’re interested in joining, collaborating, or just want to chat about all things cybersecurity, feel free to
-                        reach out to us. You can contact our president via email at [rs2069@scarletmail.rutgers.edu].
+                        reach out to us.
                     </p>
                     <p className="pb-2">
                         Additionally, we encourage you to join our Discord community to stay updated on our events, discussions, and more. You can
                         also find us on
-                        <Link href="http://getinvolved.rusec.club" className="text-accent">
+                        <Link href="https://app.suitable.co/student-organizations/yVBSoa1UJXQy" className="text-accent">
                             {" "}
-                            GetInvolved{" "}
+                            Suitable{" "}
                         </Link>
                         at Rutgers to see our upcoming activities and become a member. We look forward to connecting with you!
                     </p>
